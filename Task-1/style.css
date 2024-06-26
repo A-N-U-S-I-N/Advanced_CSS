@@ -1,0 +1,21 @@
+* {
+    color: white;
+}
+
+:root {
+    --primary : #00b7ff;
+    --seconadry : #6c757d;
+}
+
+#primaryBtn {
+    background-color: var(--primary);
+}
+
+#secondaryBtn {
+    background-color: var(--seconadry);
+}
+
+button {
+    border:none;
+    padding: 5px;
+}
